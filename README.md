@@ -1,4 +1,3 @@
-RobocopyGUI
 RobocopyGUI è un'interfaccia grafica utente (GUI) per il comando Robocopy di Windows. Robocopy (Robust File Copy) è un potente strumento da riga di comando per operazioni avanzate di copia e sincronizzazione dei file. Questa GUI semplifica l'utilizzo di Robocopy, offrendo un'interfaccia intuitiva e user-friendly.
 
 Caratteristiche principali
