@@ -11,13 +11,22 @@ Caratteristiche principali
 8.	Tooltips: Suggerimenti contestuali per una migliore comprensione delle funzionalità.
 
 Funzionalità tecniche
+
 •	Tkinter e ttk: Utilizzo di Tkinter per la GUI di base e ttk per widget di stile moderno.
+
 •	ttkthemes: Implementazione di temi moderni per migliorare l'aspetto dell'applicazione.
+
 •	Localizzazione: Sistema di localizzazione basato su dizionari per supporto multilingua.
+
 •	Subprocess: Utilizzo del modulo subprocess per l'esecuzione sicura dei comandi Robocopy.
+
 •	Gestione degli errori: Cattura e visualizzazione degli errori durante l'esecuzione di Robocopy.
+
 •	Layout dinamico: Interfaccia ridisegnabile per adattarsi ai cambiamenti di lingua.
+
 •	Selezione multipla: Utilizzo di Listbox per la selezione multipla delle opzioni Robocopy.
+
+
 
 Istruzioni per l'installazione e l'esecuzione
 1.	Requisiti di sistema: 
